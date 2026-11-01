@@ -115,8 +115,8 @@ php artisan test
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/<your-username>/<your-repo-name>.git
-   cd my-laravel-app
+   git clone https://github.com/Subhanjavaid12/Student-management-.git
+   cd Student-management-
    ```
 
 2. **Install PHP dependencies:**
@@ -153,7 +153,7 @@ php artisan test
 
 ## 👤 Author & Acknowledgments
 
-- **Developer**: Subhan Javaid ([GitHub](https://github.com/))
+- **Developer**: Subhan Javaid ([GitHub](https://github.com/Subhanjavaid12))
 - **Affiliation**: Built during the software engineering internship at the **Punjab Information Technology Board (PITB)**.
 
 ---
